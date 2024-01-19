@@ -1,4 +1,4 @@
-### tanstack-react-query-json-server-basic-examples-app
+# tanstack-react-query-json-server-basic-examples-app
 
 ## Start server
 
