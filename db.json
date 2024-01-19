@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "dsgdasw",
+      "firstName": "Mladen",
+      "lastName": "Todorovic",
+      "email": "mt@email.com",
+      "productId": "p1"
+    },
+    {
+      "firstName": "User",
+      "lastName": "One",
+      "email": "user1@email.com",
+      "productId": "p1",
+      "id": "qpq744q"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "fruits": ["banana", "mango", "kiwi", "apple", "pineapple"]
+    }
+  ],
+  "numbers": [
+    {
+      "id": 1,
+      "firstName": "one"
+    },
+    {
+      "id": 2,
+      "firstName": "two"
+    },
+    {
+      "id": 3,
+      "firstName": "three"
+    },
+    {
+      "id": 4,
+      "firstName": "four"
+    },
+    {
+      "id": 5,
+      "firstName": "five"
+    },
+    {
+      "id": 6,
+      "firstName": "six"
+    },
+    {
+      "id": 7,
+      "firstName": "seven"
+    },
+    {
+      "id": 8,
+      "firstName": "eight"
+    },
+    {
+      "id": 9,
+      "firstName": "nine"
+    },
+    {
+      "id": 10,
+      "firstName": "ten"
+    }
+  ]
+}

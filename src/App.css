@@ -1,0 +1,9 @@
+nav {
+  display: flex;
+  background-color: azure;
+  padding: 16px;
+}
+
+div {
+  padding: 6px;
+}
